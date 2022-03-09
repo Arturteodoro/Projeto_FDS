@@ -1,8 +1,8 @@
 # :clapper: AnimaCritic
 
-![GitHub repo size](https://img.shields.io/github/repo-size/DjdogeGamer/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/DjdogeGamer/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/DjdogeGamer/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Arturteodoro/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Arturteodoro/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Arturteodoro/README-template?style=for-the-badge)
 
 
 ### 🚀 Projeto da Disciplina de Fundamentos de Desenvolvimento de Software 2022.1 da [CESAR School](https://www.cesar.school) 🧡
