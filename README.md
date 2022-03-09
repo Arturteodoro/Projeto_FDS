@@ -1,7 +1,7 @@
 # :clapper: AnimaCritic
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DjdogeGamer/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/Arturteodoro/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/DjdogeGamer/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/DjdogeGamer/README-template?style=for-the-badge)
 
 
